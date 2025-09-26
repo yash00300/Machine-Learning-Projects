@@ -47,4 +47,4 @@ Clone the repository: git clone https://github.com/your-username/diabetes-predic
 cd diabetes-prediction-svm
 
 📈 Results
-* The SVM classifier was able to predict diabetes with a good level of accuracy 79.72 % .
+* The SVM classifier was able to predict diabetes with a good level of accuracy 79.72 %.
